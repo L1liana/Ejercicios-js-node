@@ -1,3 +1,7 @@
+///Nombre: Liliana Rocio López Jiménez
+/// Grado y grupo: 4°E
+///Decisiones
+///Ejercicio 2.4
 let p = require('readline-sync');
 let h= Number(p.question('Ingrese las horas en el estacionamiento: '));
 if(h<=2){
