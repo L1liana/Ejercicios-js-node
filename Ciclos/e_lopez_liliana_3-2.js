@@ -1,3 +1,7 @@
+///Nombre: Liliana Rocio López Jiménez
+/// Grado y grupo: 4°E
+///Ciclos
+///Ejercicio 3.2
 let p = require('readline-sync');
 let n = Number(p.question('Ingresa la cantidad de numeros: '));
 let q=0;
@@ -18,5 +22,4 @@ for (i=1; i<=n; i++){
 console.log("Los números iguales a 0 son: "+w);
 console.log("Los números mayores a 0 son: "+q);
 console.log("Los números menores a 0 son: "+e);
-
 
