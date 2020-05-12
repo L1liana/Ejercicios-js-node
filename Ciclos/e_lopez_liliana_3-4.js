@@ -1,3 +1,7 @@
+///Nombre: Liliana Rocio López Jiménez
+/// Grado y grupo: 4°E
+///Ciclos
+///Ejercicio 3.4
 let p = require('readline-sync');
 let n = Number(p.question('Ingresa la cantidad de alumnos: '));
 let e=0;
