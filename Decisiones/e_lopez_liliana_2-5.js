@@ -1,3 +1,7 @@
+///Nombre: Liliana Rocio López Jiménez
+/// Grado y grupo: 4°E
+///Decisiones
+///Ejercicio 2.5
 let p = require('readline-sync');
 let h= Number(p.question('Ingresa la calificación del 1 al 10: '));
 if(h==10){
